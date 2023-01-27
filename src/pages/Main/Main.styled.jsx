@@ -12,7 +12,7 @@ export const StyledHomePage = styled.div`
   display: flex;
   flex-direction: column;
   flex-grow: 1;
-  background-color: red;
+  background-color: blue;
 
 /* @media screen and (max-width: 767px) {
  background-color: var(--header-background-color);
