@@ -9,7 +9,7 @@ export const RegisterLayout = styled.div`
   flex-direction: column;
   justify-content: left;
   flex-grow: 1;
-  padding-top: 85px;
+  padding-top: 84px;
   padding-left: 20px;
   padding-bottom: auto;
   padding-right: 20px;
