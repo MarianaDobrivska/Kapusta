@@ -40,7 +40,7 @@ export const App = () => {
       dispatch(refreshUser());
 
       if (location.pathname === '/') {
-        location.pathname = '/React-team-project/main/expenses';
+        location.pathname = '/Kapusta/main/expenses';
       }
     }
   }, [accessToken, dispatch, location, refreshToken, sid]);
